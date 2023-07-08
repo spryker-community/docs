@@ -1,2 +1,1 @@
-# docs
-Documentation for community projects
+See Spryker [Community Wiki](https://github.com/spryker-community/docs/wiki) :)
