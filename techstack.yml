@@ -1,7 +1,8 @@
 repo_name: spryker-community/docs
-report_id: 228555ca12cf8556c48d7ef059a7b8a9
+report_id: 64e273d7acf8761ee31115b7041da62b
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:51:13+00:00'
+timestamp: '2024-01-04T15:09:26+00:00'
 requested_by: gxjansen
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/spryker-community/docs
   detection_source: Repo Metadata
