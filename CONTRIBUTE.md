@@ -7,3 +7,5 @@ _Please note that at the current moment, we're still in the process of creating 
 ## Spryker Community code contribution guidelines
 * **Open Source Code**: We encourage you to publish your code under the [MIT License](https://opensource.org/license/mit/), making it freely available for anyone to use or modify.
 * **Ownership and Permissions**: When contributing code, please ensure it's either your original work or you have explicit permission to share it. Do not include code from clients or employers without proper authorization.
+
+If you want to start a new project on github.com/spryker-community and thus need your own repo: please DM Florian Schwarzmeier or send an e-mail to community@spryker.com.
