@@ -1,4 +1,4 @@
-The general [Spryker Community Guidelines // Code of Conduct](https://commerceverse.space/discussion/27749/community-guidelines-code-of-conduct) also apply here in our GitHub.
+The general [Spryker Community Guidelines // Code of Conduct](https://commercequest.space/coc) also apply here in our GitHub.
 
 The items below are an extension to those guidelines, applying specifically to contributing code to our Spryker Community GitHub repositories.
 
